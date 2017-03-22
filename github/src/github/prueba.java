@@ -1,7 +1,7 @@
 package github;
 
 public class prueba {
-	int data[]={-1,0,4,42,84,97};
+	int data[]={-1,0,4,42,44,84,97};
 	
 	public void display(){
 		
